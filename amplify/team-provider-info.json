@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-flowerbot-dev-02944-authRole",
+      "UnauthRoleArn": "arn:aws:iam::807596108910:role/amplify-flowerbot-dev-02944-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::807596108910:role/amplify-flowerbot-dev-02944-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-flowerbot-dev-02944-deployment",
+      "UnauthRoleName": "amplify-flowerbot-dev-02944-unauthRole",
+      "StackName": "amplify-flowerbot-dev-02944",
+      "StackId": "arn:aws:cloudformation:us-east-1:807596108910:stack/amplify-flowerbot-dev-02944/a6b84a40-e284-11ee-8a99-0affdfbb5611",
+      "AmplifyAppId": "d1y8fzf4w7knal"
+    }
+  }
+}
